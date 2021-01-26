@@ -1,2 +1,4 @@
 # Lead_Score_Logistic_Regression
-X-Education would like to assign a lead score between 0 and 100 to each of the leads which can be used by to target potential leads, using logistic regression model. The higher the score, the higher the potential of the lead to get converted.  Additionally, model should be able to adjust in case X-Education's requirement changes in the future.
+X eductaion institue sells online course to the industries based on their campain and the interestes received from multiple customers,But currently their Conversion rate is around 30% and the CEO of the company would like to make it as 80%.
+
+As part of this assignemnt we are building a Logistic regression model and assign a lead score between 0 and 100,Which can be used by the company to target the potential leads so that they can reach the Target\n",
